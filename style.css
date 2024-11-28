@@ -1,7 +1,7 @@
 .nav__link {
     background-color: rgb(0, 204, 255);
     color: red;
-    padding: 5px 25px;
+    padding: 1px 25px;
     border-radius: 10px;
     text-decoration: none;
 }
@@ -45,5 +45,7 @@ img {
      width: 250px;
     height: 200px;
 }
+
+
 
 
