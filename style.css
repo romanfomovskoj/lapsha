@@ -52,8 +52,14 @@ img {
 header {
     text-align: center;
     background-color: brown;
+    padding: 10px;
 }
 
 main {
     background-color: aquamarine;
+}
+
+footer img {
+ height: 40px;
+ width: 40px;
 }
